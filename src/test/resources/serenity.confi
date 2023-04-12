@@ -1,0 +1,14 @@
+environments{
+
+    qa{
+        base.url = "https://reqres.in/"
+    }
+
+    dev{
+        base.url = "https://reqres.in/"
+    }
+
+
+
+
+}
